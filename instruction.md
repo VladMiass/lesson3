@@ -36,3 +36,4 @@
 29. ***"git remote add origin https://githab.com/VladMiass/seminar3.git"***
 30. ***"git branch -M main"***
 31. ***"git push -u origin main"***
+**"git pull"** - стянуть из репозитория новые комиты и слить с локальной веткой
