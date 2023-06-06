@@ -31,4 +31,8 @@
 26. ***"git checkout <название ветки>"*** – переход к другой ветке
 27. ***"git branch -d <название ветки>"*** – удалить ветку
 28. ***"git log --pretty=format:"%h, %ae - %an, %ar : %s""*** - форма запроса от наставника
-основные команды третьего семинара
+
+## **Основные команды git семинар 3**
+29. ***"git remote add origin https://githab.com/VladMiass/seminar3.git"***
+30. ***"git branch -M main"***
+31. ***"git push -u origin main"***
